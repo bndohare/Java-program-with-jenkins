@@ -5,5 +5,7 @@ public class Main{
     System.out.println("This is java program tutorial using Jenkins ");
     System.out.println(new Date());
     System.out.println("Running project/build through git to jenkins");
+    Student std=new Student();
+    std.sayHello();
 }
 }
